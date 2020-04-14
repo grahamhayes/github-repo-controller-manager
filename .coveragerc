@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = repo_controller_manager
+
+[report]
+ignore_errors = True
